@@ -2,7 +2,8 @@
 ## Homework 1
 
 ### Student Info
-- Name: [Your Name]
+- Name: Sai Revanth Arigela
+- 700#: 700761015
 - Course: CS5760 - Natural Language Processing
 - Semester: Fall 2025
 
